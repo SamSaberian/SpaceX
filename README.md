@@ -7,7 +7,7 @@ Key challenges within the project include:
 Identifying all factors that impact the landing outcome.
 Investigating the relationships between variables and their influence on the outcome.
 Determining the optimal conditions required to enhance the probability of a successful landing.
-![image](https://github.com/SamSaberian/SpaceX/assets/107582673/1427e440-1187-4501-b66a-e91f76bda5a9)
+
 
 
 Data Collection with API
