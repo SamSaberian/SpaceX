@@ -7,16 +7,16 @@ Key challenges within the project include:
 Identifying all factors that impact the landing outcome.
 Investigating the relationships between variables and their influence on the outcome.
 Determining the optimal conditions required to enhance the probability of a successful landing.
-#Table of Contents
-Data Collection with API
-Data Collection with Web Scraping
-Data Wrangling
-EDA with SQL
-EDA with Visulaization Lab
-Interactive Visual Analytics with Folium
-Dashboard Application (Code)
-Predictive Analysis - Machine Learning Lab
-Final Presentation (Slide)
-Acknowledgements
-© Copyright IBM Corporation 1994, 2022.
-© Reza Sam Saberian Nov 30, 2023
+## Table of Contents
+##### Data Collection with API
+##### Data Collection with Web Scraping
+##### Data Wrangling
+##### EDA with SQL
+##### EDA with Visulaization Lab
+##### Interactive Visual Analytics with Folium
+##### Dashboard Application (Code)
+##### Predictive Analysis - Machine Learning Lab
+##### Final Presentation (Slide)
+#### Acknowledgements
+##### © Copyright IBM Corporation 1994, 2022.
+##### © Reza Sam Saberian Nov 30, 2023
